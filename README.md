@@ -50,5 +50,5 @@ I am an junior front-end developer looking to kickstart my career in the IT indu
 
   ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/rsschool_55c81bf85cf2424d/badges)
+![codewars](https://www.codewars.com/users/rsschool_55c81bf85cf2424d/badges/large)
 
