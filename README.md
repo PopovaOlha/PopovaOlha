@@ -36,7 +36,8 @@ I am an junior front-end developer looking to kickstart my career in the IT indu
     <a href="https://www.linkedin.com/in/olha-popova-%F0%9F%87%BA%F0%9F%87%A6-8235851b3/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!-- <a href="https://www.facebook.com/profile.php?id=100012228370356" target="_blank">
+    <!-- <a href="![image](https://github.com/PopovaOlha/PopovaOlha/assets/111237128/80f9191f-3795-42f4-b999-bbccb7cb4326)
+" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/145/145802.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.instagram.com/_olha_popova/" target="_blank">
