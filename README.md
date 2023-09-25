@@ -48,7 +48,7 @@ I am an junior front-end developer looking to kickstart my career in the IT indu
 
   ---
 
-  ### ⚙️ GitHub статистика:
+  ### ⚙️ GitHub statistic:
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ I am an junior front-end developer looking to kickstart my career in the IT indu
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PopovaOlha)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=popovaolha)
 
   ---
 
