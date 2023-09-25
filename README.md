@@ -49,7 +49,9 @@ I am an junior front-end developer looking to kickstart my career in the IT indu
   ---
 
   ## Languages:
-  # English B2
+  - English B2
+    
+  ---
 
   ### ⚙️ GitHub statistic:
 
