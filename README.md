@@ -1,6 +1,6 @@
 # ⚙️ Unleashing Productivity Superpowers... Stay tuned! 👩‍🎨
 
-Hey there, I'm Olga 👋
+# Hey there, I'm Olga 👋
 
 🚀 Supercharging productivity on exciting projects
 
