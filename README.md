@@ -3,7 +3,9 @@
 Hey there, I'm Olga 👋
 
 🚀 Supercharging productivity on exciting projects
+
 🌱 Eagerly learning and mastering new skills
+
 💪 Empowered to make every moment count
 
 📫 how to contact me: [![Telegram Badge](https://img.shields.io/badge/-PopovaOlha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Popovaolga719) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:popovaolga719@gmail.com@gmail.com)
