@@ -1,12 +1,12 @@
-### Hi there 👋
-# My name is Olha
+# ⚙️ Unleashing Productivity Superpowers... Stay tuned! 👩‍🎨
 
----
+Hey there, I'm Olga 👋
 
-### :man_technologist: About me:
-I am an front-end developer looking to kickstart my career in the IT industry, gain valuable experience, and acquire knowledge in web development. My goal is to become a professional in crafting modern and interactive web applications using cutting-edge technologies.
+🚀 Supercharging productivity on exciting projects
+🌱 Eagerly learning and mastering new skills
+💪 Empowered to make every moment count
 
-- :mailbox: how to contact me: [![Telegram Badge](https://img.shields.io/badge/-PopovaOlha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Popovaolga719) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:popovaolga719@gmail.com@gmail.com)
+📫 how to contact me: [![Telegram Badge](https://img.shields.io/badge/-PopovaOlha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Popovaolga719) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:popovaolga719@gmail.com@gmail.com)
 
 ---
 
