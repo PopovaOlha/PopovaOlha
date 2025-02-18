@@ -35,7 +35,7 @@
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/olha-popova-%F0%9F%87%BA%F0%9F%87%A6-8235851b3/" target="_blank">
+    <a href="https://www.linkedin.com/in/olha-popova-8235851b3/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <!-- <a href="https://www.facebook.com/profile.php?id=100012228370356" target="_blank">
